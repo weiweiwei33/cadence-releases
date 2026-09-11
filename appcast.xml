@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Cadence</title>
+    <item>
+      <title>Cadence 1.1</title>
+      <pubDate>Fri, 11 Sep 2026 21:38:05 +0800</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>Auto-update via Sparkle. Water tank behind the focus box, drag-to-reorder, manual Sync button, overdue markers, V2 dark/light design.</p>]]></description>
+      <enclosure url="https://github.com/weiweiwei33/cadence-releases/releases/download/v1.1/Cadence-1.1.dmg" type="application/octet-stream" sparkle:edSignature="jpjQsXECu/wePWpM79C74RkNkY5sxEU63ADwhsCuYXS72JsEvBkPC2GsokwMoMKKbtxCIC94zuRENwiXpEMXDQ==" length="3061757" />
+    </item>
+  </channel>
+</rss>

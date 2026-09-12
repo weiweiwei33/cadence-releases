@@ -3,6 +3,15 @@
   <channel>
     <title>Cadence</title>
     <item>
+      <title>Cadence 1.1.2</title>
+      <pubDate>Sat, 12 Sep 2026 21:03:57 +0800</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>The countdown no longer resizes the menu bar item, so nothing shifts while a timer runs.</p>]]></description>
+      <enclosure url="https://github.com/weiweiwei33/cadence-releases/releases/download/v1.1.2/Cadence-1.1.2.dmg" type="application/octet-stream" sparkle:edSignature="jaXF4KuM6k9inU8IThkWql2JqHK+cqnNy2DpObZupe26gLY7d4LRbhlavbpSg53BPtVMaU1TM496GJ0aJePIDg==" length="3064700" />
+    </item>
+    <item>
       <title>Cadence 1.1.1</title>
       <pubDate>Fri, 11 Sep 2026 21:45:09 +0800</pubDate>
       <sparkle:version>3</sparkle:version>

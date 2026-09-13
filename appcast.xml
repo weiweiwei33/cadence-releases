@@ -3,6 +3,15 @@
   <channel>
     <title>Cadence</title>
     <item>
+      <title>Cadence 1.2</title>
+      <pubDate>Mon, 14 Sep 2026 02:41:50 +0800</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p>New tasks go to your shared Home list assigned to you, with a Public toggle to send one to your private list instead. Type @name to assign a task to a project member — it's created for them and confirmed with a notice, without entering your own queue.</p>]]></description>
+      <enclosure url="https://github.com/weiweiwei33/cadence-releases/releases/download/v1.2/Cadence-1.2.dmg" type="application/octet-stream" sparkle:edSignature="Ere2Pf76M9rsU15InakVvf8kInuUo6dtt8P4ZDM9HROtFuFGLAMengfBjMHQVP/Qjs7yfLUiTzVpgb2F/EasBg==" length="3138563" />
+    </item>
+    <item>
       <title>Cadence 1.1.2</title>
       <pubDate>Sat, 12 Sep 2026 21:03:57 +0800</pubDate>
       <sparkle:version>4</sparkle:version>
